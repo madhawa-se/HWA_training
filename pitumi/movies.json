@@ -1,0 +1,142 @@
+[
+    {
+        "name":"spiderman",
+        "category":"action",
+        "ratings":"4.2",
+        "thumbnail":"https://img.yts.am/assets/images/movies/spider_man_into_the_spider_verse_2018/medium-cover.jpg",
+        "availability":[
+            "480dp",
+            "780dp",
+            "1050dp"
+        ],
+        "actors":[
+            {
+                "name":"Jenna Colmens",
+                "gender":"Female",
+                "age":"28"
+            },
+            {
+                "name":"Peter Frank",
+                "gender":"Male",
+                "age":"25"
+            },
+            {
+                "name":"Dominik Elsner",
+                "gender":"Male",
+                "age":"22"
+            }
+        ]
+    },
+    {
+        "name":"aquaman",
+        "category":"action",
+        "ratings":"4.5",
+        "thumbnail":"https://img.yts.am/assets/images/movies/aquaman_2018/medium-cover.jpg",
+        "availability":[
+            "480dp",
+            "780dp",
+            "1050dp"
+        ],
+        "actors":[
+            {
+                "name":"Sam winchester",
+                "gender":"Male",
+                "age":"32"
+            },
+            {
+                "name":"Sandra Frank",
+                "gender":"Female",
+                "age":"35"
+            }
+        ]
+    },
+    {
+        "name":"coco",
+        "category":"animation",
+        "ratings":"4.8",
+        "thumbnail":"https://am24.akamaized.net/tms/cnt/uploads/2017/12/hero_Coco.jpg",
+        "availability":[
+            "480dp",
+            "780dp",
+            "1050dp"
+        ],
+        "actors":[
+            {
+                "name":"Gael Garia",
+                "gender":"Male",
+                "age":"38"
+            },
+            {
+                "name":"benjamin Frank",
+                "gender":"Male",
+                "age":"25"
+            },
+            {
+                "name":"Ranie victor",
+                "gender":"Female",
+                "age":"22"
+            },
+            {
+                "name":"Gabriel Elsner",
+                "gender":"Male",
+                "age":"22"
+            }
+        ]
+    },
+    {
+        "name":"moana",
+        "category":"animation",
+        "ratings":"4.2",
+        "thumbnail":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/moana-(3d)-et00042770-17-04-2017-17-57-21.jpg",
+        "availability":[
+            "480dp",
+            "780dp",
+            "1050dp"
+        ],
+        "actors":[
+            {
+                "name":"Saara Illiaz",
+                "gender":"Female",
+                "age":"18"
+            },
+            {
+                "name":"Peter Frank",
+                "gender":"Male",
+                "age":"25"
+            },
+            {
+                "name":"Blanza arsei",
+                "gender":"Feale",
+                "age":"42"
+            }
+        ]
+    },
+    {
+        "name":"Mr.Bean",
+        "category":"comedy",
+        "ratings":"4.5",
+        "thumbnail":"https://cdn.extra.ie/wp-content/uploads/2017/03/16114752/eLib_7134342-1068x623.jpg",
+        "availability":[
+            "480dp",
+            "780dp",
+            "1050dp"
+        ],
+        "actors":[
+            {
+                "name":"Rowan Atikson",
+                "gender":"Male",
+                "age":"48"
+            },
+            {
+                "name":"Peter Mcnicol",
+                "gender":"Male",
+                "age":"35"
+            },
+            {
+                "name":"Pemala Reas",
+                "gender":"Female",
+                "age":"42"
+            }
+        ]
+    }
+]
