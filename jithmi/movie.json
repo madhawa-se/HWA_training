@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "rating": "8.6",
+        "actress":["Shameik Moore","Jake Johnson","Hailee Steinfeld","Mahershala","Liev Schreiber","Nicolas Cage"],
+        "category":["Action","Adventure"]
+    },
+    {
+        "name": "Aquaman",
+        "rating": "7.3",
+        "actress": ["Jason Momoa","Amber Heard","Patrick Wilson","Nicole Kidman","Dolph Lundgren","Willem Dafoe","Kekoa Kekumano"],
+        "category":["Action","Adventure"]
+    },
+    {
+        "name": "Mortal Engines",
+        "rating": "6.2",
+        "actress": ["Robert Sheehan","Hera Hilmar","Hugo Weaving","Jihae","Leila George D'Onofrio","Stephen Lang"],
+        "category":["Action","Adventure"]
+    },
+    {
+        "name": "The Lego Movie 2",
+        "rating": "7",
+        "actress": ["Chris Pratt","Tiffany Haddish","Jason Momoa","Alison Brie","Elizabeth Banks","Stephanie Beatriz"],
+        "category":["Action","Adventure"]
+    },
+    {
+        "name": "Fantastic Beasts: The Crimes of Grindelwald",
+        "rating": "6.7",
+        "actress": ["Eddie Redmayne","Jude Law","Johnny Depp","Ezra Miller","Zoë Kravitz"],
+        "category":["Action","Adventure"]
+    }
+]
